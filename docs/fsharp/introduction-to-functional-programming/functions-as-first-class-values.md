@@ -43,7 +43,7 @@ F # 提供了以下更简洁的语法以实现使用较少键入相同的结果�
 主要下面的示例中使用的第一个样式， `let <function-name> = <lambda-expression>`，以强调函数的声明和其他类型的值的声明之间的相似之处。 但是，还可以使用简洁的语法编写所有命名的函数。 用这两种方式编写的一些示例。
 
 
-## <a name="store-the-value-in-a-data-structure"></a>应用商店中的数据结构的值
+## <a name="store-the-value-in-a-data-structure"></a>在数据结构中存储值
 
 第一类值可以存储在数据结构。 下面的代码演示将值存储在列表和元组中的示例。
 
